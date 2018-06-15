@@ -1,0 +1,21 @@
+{
+  "name": "linreg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/brunolange/linreg.git"
+  },
+  "author": "Bruno Lange <blangeram@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/brunolange/linreg/issues"
+  },
+  "homepage": "https://gitlab.com/brunolange/linreg#README"
+}
